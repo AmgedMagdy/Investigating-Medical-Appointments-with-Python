@@ -1,0 +1,27 @@
+References:
+
+- Udacity Classroom
+- https://www.kaggle.com/datasets/joniarroba/noshowappointments/discussion
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
+- https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/alcohol-facts-and-statistics
+- https://pubs.niaaa.nih.gov/publications/AA67/AA67.htm#:~:text=Research%20also%20shows%20that%20many,1965%20(7%2C8)
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
+- https://matplotlib.org/stable/gallery/pyplots/pyplot_text.html#sphx-glr-gallery-pyplots-pyplot-text-py
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+- https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.DataFrame.plot.scatter.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/
+- https://www.geeksforgeeks.org/appending-to-list-in-python-dictionary/
+- https://www.digitalocean.com/community/tutorials/python-convert-numpy-array-to-list
+- https://www.geeksforgeeks.org/python-dividing-two-lists/
+- https://kanoki.org/2020/01/21/pandas-dataframe-filter-with-multiple-conditions/
+- https://www.geeksforgeeks.org/display-percentage-above-bar-chart-in-matplotlib/
+- https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+- https://pythonguides.com/matplotlib-increase-plot-size/
+- https://www.w3schools.com/python/matplotlib_pie_charts.asp
+- https://stackoverflow.com/questions/7082345/how-to-set-the-labels-size-on-a-pie-chart-in-python
+- https://stackoverflow.com/questions/17679089/pandas-dataframe-groupby-two-columns-and-get-counts
+- https://datascienceparichay.com/article/pandas-groupby-mean/#:~:text=To%20get%20the%20average%20(or,the%20result%20of%20pandas%20groupby.
+- https://stackoverflow.com/questions/30328646/group-by-in-group-by-and-average
+- https://matplotlib.org/stable/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py
+- https://stackoverflow.com/questions/25205247/multiple-pie-charts-using-matplotlib
